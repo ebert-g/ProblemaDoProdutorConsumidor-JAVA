@@ -4,7 +4,7 @@ import entidades.Produtor;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("HELLLLLLLLOOOOO");
+        System.out.println("HELLLLLLLLOOOOOOOO!!!!!!!!");
         Buffer buffer = new Buffer(10);
         Produtor produtor = new Produtor(buffer);
         Consumidor consumidor = new Consumidor(buffer);
